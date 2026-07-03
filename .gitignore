@@ -1,0 +1,10 @@
+node_modules/
+.env
+backend/.env
+backend/vendor/
+/generated/prisma
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
