@@ -1,8 +1,6 @@
-# LightERP
+Es un pequeño proyecto el cual me he propuesto hacer y actualizar con el tiempo, por ahora no es funcional, para ello se ha utilizado **Laravel** para el backend, que actúa como API y un frontend desarrollado en **React** con **Vite** y **Tailwind CSS**.
 
-Un sistema de planificación de recursos empresariales (ERP) ligero, moderno y funcional. Este proyecto está estructurado de forma dividida, utilizando un backend robusto en **Laravel** que actúa como API y un frontend dinámico e intuitivo desarrollado en **React** con **Vite** y **Tailwind CSS**.
-
-El almacenamiento de datos está unificado de forma global en la nube mediante **Supabase (PostgreSQL)**.
+La base de datos se hizo en principio en **Phpmyadmin** pero luego me pasé **Supabase (PostgreSQL)**. Ya que es más sencillo crear una base de datos......supongo...
 
 ---
 
