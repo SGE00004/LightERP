@@ -8,3 +8,6 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+
+# Artefactos del servidor MCP de Playwright
+.playwright-mcp/
